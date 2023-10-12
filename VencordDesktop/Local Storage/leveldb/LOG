@@ -1,0 +1,18 @@
+2023/10/12-07:07:56.294 730 Reusing MANIFEST /home/haze/.config/VencordDesktop/Local Storage/leveldb/MANIFEST-000001
+2023/10/12-07:07:56.295 730 Recovering log #5
+2023/10/12-07:07:56.295 730 Reusing old log /home/haze/.config/VencordDesktop/Local Storage/leveldb/000005.log 
+2023/10/12-07:13:23.243 730 Level-0 table #9: started
+2023/10/12-07:13:23.262 730 Level-0 table #9: 2063267 bytes OK
+2023/10/12-07:13:23.265 730 Delete type=0 #5
+2023/10/12-07:25:07.011 730 Level-0 table #11: started
+2023/10/12-07:25:07.028 730 Level-0 table #11: 2031700 bytes OK
+2023/10/12-07:25:07.032 730 Delete type=0 #8
+2023/10/12-07:25:07.033 730 Compacting 4@0 + 0@1 files
+2023/10/12-07:25:07.068 730 Generated table #12@0: 22 keys, 3963286 bytes
+2023/10/12-07:25:07.073 730 Generated table #13@0: 61 keys, 44190 bytes
+2023/10/12-07:25:07.073 730 Compacted 4@0 + 0@1 files => 4007476 bytes
+2023/10/12-07:25:07.076 730 compacted to: files[ 0 2 0 0 0 0 0 ]
+2023/10/12-07:25:07.076 730 Delete type=2 #3
+2023/10/12-07:25:07.076 730 Delete type=2 #11
+2023/10/12-07:25:07.076 730 Delete type=2 #6
+2023/10/12-07:25:07.076 730 Delete type=2 #9

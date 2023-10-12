@@ -1,0 +1,8 @@
+2023/10/12-04:53:30.186 698d Reusing MANIFEST /home/haze/.config/VencordDesktop/Local Storage/leveldb/MANIFEST-000001
+2023/10/12-04:53:30.186 698d Recovering log #3
+2023/10/12-04:53:30.220 698d Level-0 table #3: started
+2023/10/12-04:53:30.245 698d Level-0 table #3: 4014006 bytes OK
+2023/10/12-04:53:30.249 698d Delete type=0 #3
+2023/10/12-04:58:46.682 698e Level-0 table #6: started
+2023/10/12-04:58:46.766 698e Level-0 table #6: 2033443 bytes OK
+2023/10/12-04:58:46.770 698e Delete type=0 #4
